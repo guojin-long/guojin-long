@@ -1,4 +1,7 @@
-### Hi there 👋
+### React 源码爱好者，曾优化 React 17 调和算法，使整体性能提升 35%
+
+[react-lab](https://github.com/guojin-long/react) 是个人项目，部分研究成果已 pull request 到 React 官方仓库。更多 React 性能测试结果，[点击这里](https://krausest.github.io/js-framework-benchmark/2022/table_chrome_103.0.5060.53_osx.html)。
+![react benchmark](./react-benchmark.jpg "react benchmark")
 
 <!--
 **guojin-long/guojin-long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
